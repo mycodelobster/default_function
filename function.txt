@@ -18,3 +18,13 @@ get
 create
 update
 delete
+
+
+
+Views
+=========================
+all_listing
+my_listing
+show
+update
+create
