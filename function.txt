@@ -28,3 +28,7 @@ my_listing
 show
 update
 create
+
+
+clean controller
+http://chris-schmitz.com/cleaning-up-your-codeigniter-controllers/
